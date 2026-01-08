@@ -63,3 +63,5 @@ A tabela `manifestacoes` deve conter:
 2. Instale as dependências necessárias  
 3. Execute o arquivo Python principal  
 4. Interaja com o sistema através do menu
+
+Trabalho acadêmico em Python, desenvolvido na faculdade, marcando a primeira experiência em projetos de programação! :)
